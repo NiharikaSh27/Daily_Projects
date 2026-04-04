@@ -1,0 +1,10 @@
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-openai>=0.1.0
+langchain-community>=0.2.0
+langchain-experimental>=0.0.60
+langchainhub>=0.1.15
+openai>=1.30.0
+duckduckgo-search>=5.3.0
+wikipedia>=1.4.0
+langchainhub>=0.1.15
